@@ -1,0 +1,19 @@
+{
+  "name": "tesseract-ocr",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "tesseractocr": "^2.0.3",
+    "vue": "^3.2.25",
+    "vue-cli-plugin-pug": "^2.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "vite": "^2.9.9"
+  }
+}
