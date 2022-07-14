@@ -22,6 +22,11 @@ yarn dev
 yarn build
 ```
 
+### build & deploy
+```
+yarn deploy
+```
+
 ### Lints and fixes files
 ```
 yarn lint
